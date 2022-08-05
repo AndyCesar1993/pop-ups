@@ -18,14 +18,11 @@ body {
 }
 .boton-cierre {
   display: flex;
-  background-color: ;
   width: 370px;
   justify-content: end;
-
 }
 a {
   text-decoration: none;
-  
 }
 .cierre {
   background-color: white;
@@ -39,7 +36,7 @@ a {
   text-align: center;
   color: #000000;
   font-size: 20px;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 .button {
   background-color: #ed6755;
@@ -50,6 +47,4 @@ a {
   border: none;
   justify-content: center;
   cursor: pointer;
-  
-
 }
