@@ -21,15 +21,18 @@ body {
   background-color: ;
   width: 370px;
   justify-content: end;
+
 }
 a {
   text-decoration: none;
+  
 }
 .cierre {
   background-color: white;
   border: none;
   color: rgb(126, 124, 124);
   font-size: 20px;
+  cursor: pointer;
 }
 .text {
   max-width: 300px;
@@ -46,5 +49,7 @@ a {
   border-radius: 10px;
   border: none;
   justify-content: center;
+  cursor: pointer;
+  
 
 }
